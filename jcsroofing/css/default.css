@@ -1,0 +1,13 @@
+a img {margin:0; padding:0;}
+img {border:none; margin:0; padding:0;}
+body {background:url(../images/bg-gradient.gif) repeat-x; background-color:#eee; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#333;}
+#container {width:920px; margin:0 auto; text-align:center;}
+#inner-cont {background:url(../images/cont-bg.png) repeat-y ; padding:20px 0 20px 0; margin-top:20px;}
+#inner-cont .content {clear:both; padding:25px}
+#inner-cont .bordtop {height:11px; background:url(../images/bordtop.png) no-repeat; margin-top:-31px;}
+#inner-cont .bordbtm {height:22px; background:url(../images/bordbtm.png) no-repeat; margin-bottom:-42px;}
+#header {clear:both; padding:0 15px 10px 15px; height: 35px;}
+#header .logo {float:left; margin:25px 0 0 10px;}
+#header .nav {float:left; margin:45px 0 0 45px; }
+#footer {padding:0 15px; margin-top:35px; clear:both; text-align:right; line-height:1.8em; color:#777;}
+#footer .footerlinks {font-size:14px;}

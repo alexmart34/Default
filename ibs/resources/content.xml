@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content> 
+
+    <gallery Name="All Videos">
+        <video Aspect="4:3" Thumb="Gallery1/thumb1.jpg" VideoClip="Gallery1/video1.flv" Title="Night Drive">
+            <copy><![CDATA[<font color="#00FFFF"><b>Night Drive</b></font><br>This is HTML formatted text which can support <a href="http://www.flashden.net" target="_blank">hyperlinks</a>]]></copy>
+	</video>
+	<video Aspect="16:9" Thumb="Gallery1/thumb2.jpg" VideoClip="Gallery1/video2.flv" Title="Traffic Lights (16:9 video)">
+            <copy><![CDATA[<font color="#00FFFF"><b>Traffic Lights (16:9 video)</b></font><br>This is HTML formatted text which can support <a href="http://www.flashden.net" target="_blank">hyperlinks</a>]]></copy>
+	</video>
+        <video Aspect="4:3" Thumb="Gallery1/thumb3.jpg" VideoClip="Gallery1/video3.flv" Title="S-Bend">
+            <copy><![CDATA[<font color="#00FFFF"><b>S-Bend</b></font><br>This is HTML formatted text which can support <a href="http://www.flashden.net" target="_blank">hyperlinks</a>]]></copy>
+	</video>
+	<video Aspect="4:3" Thumb="Gallery1/thumb4.jpg" VideoClip="Gallery1/video4.flv" Title="On the Freeway">
+            <copy><![CDATA[<font color="#00FFFF"><b>On the Freeway</b></font><br>This is HTML formatted text which can support <a href="http://www.flashden.net" target="_blank">hyperlinks</a>]]></copy>
+	</video>
+        <video Aspect="4:3" Thumb="Gallery1/thumb1.jpg" VideoClip="Gallery1/video1.flv" Title="Night Drive">
+            <copy><![CDATA[<font color="#00FFFF"><b>Night Drive</b></font><br>This is HTML formatted text which can support <a href="http://www.flashden.net" target="_blank">hyperlinks</a>]]></copy>
+	</video>
+        <video Aspect="4:3" Thumb="Gallery1/thumb1.jpg" VideoClip="Gallery1/video2.flv" Title="Traffic Lights">
+            <copy><![CDATA[<font color="#00FFFF"><b>Traffic Lights</b></font><br>This is HTML formatted text which can support <a href="http://www.flashden.net" target="_blank">hyperlinks</a>]]></copy>
+	</video>
+    </gallery>
+
+    <gallery Name="Sunday Service">
+ 	<video Aspect="4:3" Thumb="Gallery2/thumb1.jpg" VideoClip="Gallery2/video1.flv" Title="Night Drive">
+            <copy><![CDATA[<font color="#00FFFF"><b>Night Drive</b></font><br>This is HTML formatted text which can support <a href="http://www.flashden.net" target="_blank">hyperlinks</a>]]></copy>
+	</video>
+	<video Aspect="16:9" Thumb="Gallery2/thumb2.jpg" VideoClip="Gallery2/video2.flv" Title="Traffic Lights (16:9 video)">
+            <copy><![CDATA[<font color="#00FFFF"><b>Traffic Lights (16:9 video)</b></font><br>This is HTML formatted text which can support <a href="http://www.flashden.net" target="_blank">hyperlinks</a>]]></copy>
+	</video>
+        <video Aspect="4:3" Thumb="Gallery2/thumb3.jpg" VideoClip="Gallery2/video3.flv" Title="S-Bend">
+            <copy><![CDATA[<font color="#00FFFF"><b>S-Bend</b></font><br>This is HTML formatted text which can support <a href="http://www.flashden.net" target="_blank">hyperlinks</a>]]></copy>
+	</video>
+	<video Aspect="4:3" Thumb="Gallery2/thumb4.jpg" VideoClip="Gallery2/video4.flv" Title="On the Freeway">
+            <copy><![CDATA[<font color="#00FFFF"><b>On the Freeway</b></font><br>This is HTML formatted text which can support <a href="http://www.flashden.net" target="_blank">hyperlinks</a>]]></copy>
+	</video>
+ 	<video Aspect="4:3" Thumb="Gallery2/thumb1.jpg" VideoClip="Gallery2/video1.flv" Title="Night Drive">
+            <copy><![CDATA[<font color="#00FFFF"><b>Night Drive</b></font><br>This is HTML formatted text which can support <a href="http://www.flashden.net" target="_blank">hyperlinks</a>]]></copy>
+	</video>
+    </gallery>
+
+
+    <gallery Name="Special Events">
+        <video Aspect="4:3" Thumb="Gallery3/thumb1.jpg" VideoClip="Gallery3/video1.flv" Title="Night Drive">
+            <copy><![CDATA[<font color="#00FFFF"><b>Night Drive</b></font><br>This is HTML formatted text which can support <a href="http://www.flashden.net" target="_blank">hyperlinks</a>]]></copy>
+	</video>
+	<video Aspect="16:9" Thumb="Gallery3/thumb2.jpg" VideoClip="Gallery3/video2.flv" Title="Traffic Lights (16:9 video)">
+            <copy><![CDATA[<font color="#00FFFF"><b>Traffic Lights (16:9 video)</b></font><br>This is HTML formatted text which can support <a href="http://www.flashden.net" target="_blank">hyperlinks</a>]]></copy>
+	</video>
+    </gallery>
+
+
+</content>

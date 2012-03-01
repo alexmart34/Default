@@ -1,0 +1,25 @@
+
+#maincont {
+	font-family: Tahoma, Geneva, sans-serif;
+	color: #333;
+	width: 580px;
+	height: 350px;
+	font-size: 12px;
+	margin: 0 auto;
+}
+
+#maincont h1{
+	margin:0;
+	font-size:16px;
+	color:#069;
+	padding-bottom: 1em;
+}
+
+#maincont p{
+	margin:0 0 1.25em 0;
+}
+
+text{
+	line-height:2em;
+}
+

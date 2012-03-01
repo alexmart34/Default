@@ -1,0 +1,37 @@
+.tabs {
+	margin: 0;
+}
+
+.tab_active {
+	background-color: #069;
+	color: white;
+	cursor:default;
+	float: right;
+	width:10em;
+	height:21px;
+	font-size:11px;
+	padding-top: 4px;
+	text-align: center;
+}
+.tab_inactive:hover{
+	background-color:#09f;
+	color:white;
+}
+
+.tab_inactive {
+	color: #666;
+	cursor:default;
+	float: right;
+	width:10em;
+	height:21px;
+	padding-top:4px;
+	font-size:11px;
+	text-align: center;
+}
+
+.tab_content {
+	padding-top:25px;
+	clear:both;
+	text-align: left;
+
+}

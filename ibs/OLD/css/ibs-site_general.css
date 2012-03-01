@@ -1,0 +1,408 @@
+/* Navigation Rollover */
+#hmeNav, #minNav, #resNav, #newsNav, #abouNav, #contNav
+{
+	color:white;
+	float:right;
+	padding-left:12px;
+	padding-right:12px;
+	height: 50px;
+	background:url(../images/rollover/rollOver.png) no-repeat 0 0;
+}
+
+#hmeNav:hover, #minNav:hover, #resNav:hover, #newsNav:hover, #abouNav:hover, #contNav:hover
+{ 
+  background-position: 0 -53px;
+}
+
+/* Links */
+a:link {
+	color: #666;
+	text-decoration: none;
+}
+a:visited {
+	color: #06C;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+
+img {
+	border:0;
+}
+
+
+/* Body Content */
+body {
+	background-image: url(../images/site_bg_v2.png);
+	background-color: #CCC;
+	color:#666;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+
+#container {
+	margin: 0 auto;
+	width: 900px;
+	overflow:auto;
+}
+
+.btmFooter {
+	font-size: 10px;
+	color: #666;
+	text-align: center;
+	letter-spacing:0.05em;
+	padding: 10px 0px 0px 0px;
+}
+
+#top-logo {
+	height:135px;
+	width: 900px;
+}
+
+#nav-bar {
+	height:52px;
+	border-top:solid 8px #09F;
+	background-color:#069;
+	width: 900px;
+	letter-spacing:0;
+}
+
+#side-bar {
+	width:235px;
+	background-color:#09F;
+	float:right;
+	height: 56em;
+}
+
+#body-content {
+	width:665px;
+	float:left;
+	background-image: url(../images/bodyCont_bg_07.png);
+	background-repeat: repeat;
+	height: 56em;
+}
+
+
+#body-content p{
+	margin-bottom: .8em;
+}
+
+#top-banner {
+	border-bottom:solid 4px #09f;
+	height:214px;
+	overflow:hidden;
+}
+
+#footer {
+	border-top:solid 8px #09f;
+	background:url(../images/footer.png) no-repeat;
+	width:900px;
+	height:90px;
+	clear:both;
+}
+
+.navText {
+	width:auto;
+	padding-top:17px;
+	text-align:center;
+	text-transform:uppercase;
+	letter-spacing:1px;
+	font-size:10px;
+}
+
+h1 {
+	font-size:18px;
+	color:#069;
+	font-weight:normal;
+	margin: 0;
+}
+
+h2 {
+	font-size:16px;
+	color:#069;
+	font-weight:normal;
+	margin:0;
+}
+
+h3 {
+	font-size:14px;
+	color:#069;
+	font-weight:normal;
+	margin:0;
+}
+
+#body-text {
+	margin:0 auto;
+	line-height:1.3em;
+	margin-top:30px;
+	width: 50em;
+}
+
+#weekDev {
+	padding:10px;
+	float:right;
+	width:300px;
+	background:url(../images/weekDev_bg.png);
+	vertical-align: top;
+	top: auto;
+}
+
+verse {
+	color: #069;
+}
+
+.eventTable {
+	border-top:solid 1px #a5a5a5;
+	padding-top:8px;
+	padding-bottom:6px;
+	color:#666;
+	line-height:1.4em;
+}
+
+#servTime .eventTable {
+	color:#333;
+	text-align:center;
+}
+
+#servTime .eventTable-tp {
+	border-top:1.5px solid #000;
+}
+
+.eventTable t{
+	color:black;
+}
+
+#body-btmCont {
+	margin:0 auto;
+	width:50em;
+	clear:both;
+}
+
+#upEvent {
+	width:270px;
+}
+event {
+	color:black;
+}
+
+/* Ministries Buttons and Section */
+#mincont {
+	width:50em;
+	color:#666;
+}
+
+#mincont p {
+	margin:1em 0;
+}
+
+#mincont h1{
+	font-size:14px;
+	color:black;
+}
+
+#minbtn {
+	width:190px;
+	height:200px;
+	float: left;
+	margin: 15px 0px 0px 15px;
+	color:#666;
+}
+#minbtn-title {
+	line-height:1.2em;
+	font-size:10px; 
+	text-align:center; 
+	margin:3.5em 0 0 0; 
+	padding:0 1em;
+}
+
+/* Contact Page  */
+
+#contactTab {
+	height:25px;
+	margin-top:7px;
+	background:#CFCFCF;
+	list-style-type: none;
+}
+
+.contactTab {
+	font-size:11px;
+	margin:0px 0px 0px 0px;
+	padding:4px 0px 0px 0px;
+	color:#333;
+	width:10em;
+	height:21px;
+	text-align:center;
+	float:right;
+}
+.contactTab:hover {
+	background-color:#069 !important;
+	color:white;
+	background-color:#09f;
+}
+#content-container {
+	margin:20px 0px 0px 0px;
+	height:525px;
+}
+
+#subNav {
+	height:25px;
+	background-color:#CCC;
+	margin-top:15px;
+}
+
+/* Contact Us Form */
+#contactForm {
+	clear:both;
+	width:450px;
+	margin:0 auto;
+	margin-top:20px;
+}
+#formField {
+	font-size:11px;
+	width:225px;
+	float:left;
+	margin:10px 0 0 0;
+}
+
+.textField {
+	width:150px;
+	height:20px;
+	-moz-border-radius: 5px; 
+	-webkit-border-radius: 5px;
+	background-color:white;
+	border:1px solid #999;
+	padding:1px;
+	vertical-align:top;
+}
+textarea.textField#comment {
+	width:150px;
+	
+}
+#servTime a {
+	color:#333;
+}
+
+/* --- MISC --- */
+
+iframe {
+	overflow:hidden;
+}
+
+.sbimage {
+	border:0;
+}
+
+/* --- Weekly Devotional Archive --- */
+#weekdevarch {
+	width:150px;
+	font-size:10px;
+	text-align:center;
+	float:left;
+	color:#666;
+}
+.modalwin {
+	display:none;
+	overflow:hidden;
+	font-size:11px;
+	background:none;
+}
+
+/* --- Spiritual Formation Abstract ---*/
+
+#spirformab {
+	font-size:11px;
+	color:#333;
+}
+
+#spirformab a:visited {
+	color:#333;
+}
+
+#spirformab desc {
+	color:black;
+	font-size:13px;
+	font-weight:bold;
+}
+
+#spirformab date {
+	color:#09f;
+	font-size:12px;
+}
+
+#spirformab text {
+	line-height:1.5em;
+	color:#333;
+	font-size:11px;
+}
+
+/* --- Prayer Corner ---*/
+
+#praycorbtm {
+	clear:both;
+	background:url(../images/weekDev_bg.png);
+	margin:30px 0 0 0;
+	width:auto;
+	float:left;
+	height:150px;
+	padding:10px 20px;
+}
+
+#praycorbtm .top{
+	font-size:14px;
+	float:right;
+	color:#069;
+}
+
+#praycorbtm .cont{
+	float:left;
+	clear:both;
+	margin-top:7px;
+	color:#333;
+}
+
+#praycorbtm .name{
+	float:left;
+	clear:both;
+	margin-top:7px;
+	color:#666;
+}
+
+
+/* --- Multimedia ---*/
+
+#multimed {
+	margin:0 auto;
+	width:450px;
+	font-size: 11px;
+	
+}
+
+#multimedcont {
+	height:100px;
+	margin:25px 0 0 0;
+	width: auto;
+	padding-top: 10px;
+	border-top: 1px solid #999;
+	color: #666;
+}
+
+#multimedcont img {
+	float:left;
+	margin:0 1.5em 0 0;
+}
+
+#multimedcont p {
+	margin:1em 0 0 0;
+}
+
+
+/* --- Modal Window CSS --- */
+#dialog, #dialog2, #dialog3, #dialog4, #dialog5, #dialog6, #dialog7, #dialog8, #dialog9, #dialog10, #dialog11 {
+	font-size:12px;
+	color:#333;
+	display: none;
+}

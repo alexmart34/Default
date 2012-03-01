@@ -1,0 +1,42 @@
+#mainContainer{
+	width:760px;
+	text-align:left;
+	background-color:#FFF;
+	border:1px solid #E2EBED;
+}
+
+.contentContainer{
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+}
+
+.contentContainer p,.contentContainer h1{
+	margin-top:0px;
+}
+
+/* CSS FOR SLIDESHOW SCRIPT */
+
+.imageSlideshowHolder,.imageSlideshowHolder_left{
+	float:left;  /* Floating gallery at the right side of other web page content */		
+	width:900px;  /* Image width */
+	height:214px; /* Image height */
+	position:relative;	/* Don't remove this line */
+}
+
+.leftFloatingDiv{
+	float:left;
+	margin-left:5px;
+	width:160px;
+	height:150px;
+}
+
+/* Don't change these values */
+
+.imageSlideshowHolder img{
+	position:absolute;
+	width:900px;  /* Image width */
+	height:214px; /* Image height */
+	left:0px;
+	top:0px;
+}

@@ -1,0 +1,113 @@
+/*   
+Theme Name: JCSRoof Theme
+Theme URI: http://www.jcsroofing.com
+Description: This is the default Site WordPress Theme template -- WordPress v3.0.1
+Author: Alex Martinez
+Author URI: http://www.matzartistry.com
+Version: 1
+*/
+
+@media screen {
+
+/* --------------------------------- GLOBAL RESETS/SETTINGS (Edit at your own risk!) --------------------------------- */
+/* These styles make different browsers render more consistently, altering any of these styles will affect the way the entire site renders in all browsers, BE CAREFUL BEFORE EDITING THESE STYLES. Global Defaults for renders these elements should be done the the Default Styles section */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, br {border: 0;margin: 0;padding: 0;outline: 0; letter-spacing:normal}
+html {font-size:100.01%; /* 100.01% value is to compensates for several browser font sizing differences */ }
+body {background:url(../images/bg.gif) 0 0 #ccc; color:#555; font-size: 10px; font-family: Arial, Helvetica, Verdana, sans-serif;}
+.clear {clear:both;}
+table {border-collapse: collapse;margin: 0px;padding: 0px;}
+a {color:#333; text-decoration:underline; cursor:pointer;}
+a img {text-decoration:none;}
+a:hover {text-decoration:none; color:#c00;}
+.hidden, .analytics {display:none;}
+strong {font-weight:bold;}
+ol, ul {list-style:none;}
+ul.content-list {margin-left:13px;}
+ul.content-list li {margin-bottom:4px; list-style-type:disc}
+h2.pagetitle {margin-bottom:20px; padding-bottom:7px; border-bottom:1px dotted #ccc; color:#46819E;}
+
+
+body {background:url(images/bg-gradient.gif) #eae8e1 repeat-x 0 0;}
+#container {margin:0 auto; width:900px;}
+#header {padding-top:5px;height:75px;}
+.logo {width:229px; height:98px; background:url(images/logobg.png) no-repeat 0 0; position:absolute; top:-60px; left:30px; padding-top:10px;}
+.logo a {padding-left:60px;}
+#main {width:900px; background:#fff; -moz-box-shadow: 0 2px 4px 0 #666; -webkit-box-shadow: 0 2px 4px 0 #666; box-shadow: 0 2px 4px 0 #666; -moz-border-radius:4px; -webkit-border-radius:4px; border-radius:4px; position:relative;}
+.content {padding:30px; font-size:12px;}
+.content p {margin:10px 0 5px; line-height:16px;}
+#header .phone {float:right; margin-top:2px;}
+#header .tagline {float:left; margin:34px 0 0 260px;}
+#topnav {background:url(images/navbg.png) repeat-x 0 0; float:right; -moz-border-radius:4px; -webkit-border-radius:4px; border-radius:4px; margin:35px 30px 0 0;}
+#topnav ul, .navsearch, .menu-top-nav-container {float:left;}
+#topnav ul li {float:left; background:url(images/navdivide.png) no-repeat 0 0;}
+#topnav ul li a {padding:12px 15px 0; font-size:13px; color:#fff; text-decoration:none; display:block; height:27px;}
+#topnav ul li a:hover {text-decoration:underline;}
+#topnav ul li:first-child {background:none;}
+.searchcontainer {float:left; background:url(images/navdivide.png) no-repeat 0 0;}
+.navsearch {height:31px; margin:8px 0 0 15px;}
+.navsearch .searchinput {width:115px; padding:3px; margin:0 3px 0 0; border:1px solid #999; -moz-border-radius:3px; -webkit-border-radius:3px; border-radius:3px;}
+.navsearch .searchbtn {width:18px; height:19px; background:url(images/search.png) 0 0; border:none; margin-right:15px; padding:0; cursor:pointer;}
+.welcometext p {font-size:13px; line-height:18px;}
+
+#footer {padding:20px 10px 45px 20px; color:#666}
+#footer a {color:#666;}
+#footer .ftlfcont {float:left; width:auto}
+#footer .ftlfcont .divide {padding:0 10px;}
+#footer .ftrtcont {float:right; text-align:right;}
+#footer .subnav {margin-bottom:7px;}
+#footer .subnav li {float:left; padding:0 10px; border-left:1px solid #666; font-size:11px; }
+#footer .subnav li:first-child {border:none;}
+#footer .legal {padding-right:10px;}
+
+.topimg {margin-bottom:15px;}
+.lfcont {float:left; width:560px;}
+.lfcont.fullwidth {width:100%;}
+.rtsidebar {float:right; width:226px; background:#d7eaf3; padding:20px 13px;}
+.rtsidebar h2 {font-weight:normal; border-bottom:1px solid #a8bbc4; margin-bottom:6px; text-align:right; color:#a3a29d;}
+.rtsidebar a {text-decoration:none; color:#879ea9;}
+.rtsidebar a:hover {text-decoration:underline;}
+.rtsidebar .offer {margin-bottom:35px;}
+.rtsidebar .testimonial {position:relative; padding:7px; line-height:18px;}
+.rtsidebar .testimonial p {margin:0;}
+.quote-first, .quote-last {width:32px; height:26px; position:absolute;}
+.quote-first {background:url(images/lfquote.png) no-repeat 0 0; left:0; top:0;}
+.quote-last {background:url(images/rtquote.png) no-repeat 0 0; bottom:0; right:0;}
+
+.service-links {margin-top:25px;}
+.service-links .service, .service-links .custlinks {float:left;}
+.service-links .service {padding-right:20px; border-right:1px solid #ccc}
+.service-links .custlinks {padding-left:20px}
+.service-links .custlinks a {color:blue; text-decoration:none; font-size:12px;}
+.service-links .custlinks a:hover {text-decoration:underline;}
+
+.topimg div#hp-slider_container .nivo_slider .nivo-controlNav {padding:0 394px; width:auto !important;}
+.nivo-controlNav a {display:block; height:11px; width:11px; margin:0 5px; float:left; background:url(images/sliderbtn.png) -3px -2px no-repeat; text-indent:-9999px;}
+.nivo-controlNav a.active {background-position:-3px -22px;}
+
+} /* END screen media */
+
+@media print {
+
+.do-not-print { display: none; }
+#comments { page-break-before: always; }
+
+body { width: 100% !important; margin: 0 !important; padding: 0 !important; line-height: 1.4; word-spacing: 1.1pt; letter-spacing: 0.2pt; font-family: Garamond,"Times New Roman", serif; color: #000; background: none; font-size: 12pt; }
+h1,h2,h3,h4,h5,h6 { font-family: Helvetica, Arial, sans-serif; }
+h1 { font-size: 19pt; }
+h2 { font-size:17pt; }
+h3 { font-size:15pt; }
+h4,h5,h6 { font-size:12pt; }
+code { font: 10pt Courier, monospace; } 
+blockquote { margin: 1.3em; padding: 1em; }
+img { display: block; margin: 1em 0; }
+a img { border: none; }
+table { margin: 1px; text-align:left; }
+th { border-bottom: 1px solid #333;  font-weight: bold; }
+td { border-bottom: 1px solid #333; }
+th, td { padding: 4px 10px 4px 0; }
+caption { background: #fff; margin-bottom: 2em; text-align: left; }
+thead { display: table-header-group; }
+tr { page-break-inside: avoid; } 
+a { text-decoration: none; color: black; }
+	
+} /* END print media */

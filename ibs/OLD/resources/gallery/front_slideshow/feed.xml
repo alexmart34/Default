@@ -1,0 +1,276 @@
+<NODETOP>
+
+	<NODE id="Gallery 1">
+		<TITLE>Title 1</TITLE>
+		<COPY><![CDATA[Description In this Area Gallery 1]]></COPY>
+		<LINK>gallery/front_slideshow/image_1.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_1.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 1">
+		<TITLE>Title 2</TITLE>
+		<COPY><![CDATA[Description Here 2]]></COPY>
+		<LINK>gallery/front_slideshow/image_2.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_2.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 1">
+		<TITLE>Title 3</TITLE>
+		<COPY><![CDATA[Description Here 3]]></COPY>
+		<LINK>gallery/front_slideshow/image_3.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_3.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 1">
+		<TITLE>Title 4</TITLE>
+		<COPY><![CDATA[Description Here 4]]></COPY>
+		<LINK>gallery/front_slideshow/image_4.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_4.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 1">
+		<TITLE>Title 5</TITLE>
+		<COPY><![CDATA[Description Here 5]]></COPY>
+		<LINK>gallery/front_slideshow/image_5.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_5.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 1">
+		<TITLE>Title 6</TITLE>
+		<COPY><![CDATA[Description Here 6]]></COPY>
+		<LINK>gallery/front_slideshow/image_6.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_6.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 1">
+		<TITLE>Title 1</TITLE>
+		<COPY><![CDATA[Description Here 1]]></COPY>
+		<LINK>gallery/front_slideshow/image_1.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_1.jpg</THUMBS>
+	</NODE>
+
+	<NODE id="Gallery 2">
+		<TITLE>Title 1</TITLE>
+		<COPY><![CDATA[Description In this Area Gallery 2]]></COPY>
+		<LINK>gallery/front_slideshow/image_1.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_1.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 2">
+		<TITLE>Title 2</TITLE>
+		<COPY><![CDATA[Description Here 2]]></COPY>
+		<LINK>gallery/front_slideshow/image_2.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_2.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 2">
+		<TITLE>Title 3</TITLE>
+		<COPY><![CDATA[Description Here 3]]></COPY>
+		<LINK>gallery/front_slideshow/image_3.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_3.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 2">
+		<TITLE>Title 4</TITLE>
+		<COPY><![CDATA[Description Here 4]]></COPY>
+		<LINK>gallery/front_slideshow/image_4.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_4.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 2">
+		<TITLE>Title 5</TITLE>
+		<COPY><![CDATA[Description Here 5]]></COPY>
+		<LINK>gallery/front_slideshow/image_5.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_5.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 2">
+		<TITLE>Title 6</TITLE>
+		<COPY><![CDATA[Description Here 6]]></COPY>
+		<LINK>gallery/front_slideshow/image_6.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_6.jpg</THUMBS>
+	</NODE>
+
+	<NODE id="Gallery 3">
+		<TITLE>Title 1</TITLE>
+		<COPY><![CDATA[Description Here 1]]></COPY>
+		<LINK>gallery/front_slideshow/image_1.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_1.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 3">
+		<TITLE>Title 2</TITLE>
+		<COPY><![CDATA[Description Here 2]]></COPY>
+		<LINK>gallery/front_slideshow/image_2.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_2.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 3">
+		<TITLE>Title 3</TITLE>
+		<COPY><![CDATA[Description Here 3]]></COPY>
+		<LINK>gallery/front_slideshow/image_3.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_3.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 3">
+		<TITLE>Title 4</TITLE>
+		<COPY><![CDATA[Description Here 4]]></COPY>
+		<LINK>gallery/front_slideshow/image_4.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_4.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 3">
+		<TITLE>Title 5</TITLE>
+		<COPY><![CDATA[Description Here 5]]></COPY>
+		<LINK>gallery/front_slideshow/image_5.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_5.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 3">
+		<TITLE>Title 6</TITLE>
+		<COPY><![CDATA[Description Here 6]]></COPY>
+		<LINK>gallery/front_slideshow/image_6.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_6.jpg</THUMBS>
+	</NODE>
+
+	<NODE id="Gallery 4">
+		<TITLE>Title 1</TITLE>
+		<COPY><![CDATA[Description Here 1]]></COPY>
+		<LINK>gallery/front_slideshow/image_1.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_1.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 4">
+		<TITLE>Title 2</TITLE>
+		<COPY><![CDATA[Description Here 2]]></COPY>
+		<LINK>gallery/front_slideshow/image_2.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_2.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 4">
+		<TITLE>Title 3</TITLE>
+		<COPY><![CDATA[Description Here 3]]></COPY>
+		<LINK>gallery/front_slideshow/image_3.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_3.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 4">
+		<TITLE>Title 4</TITLE>
+		<COPY><![CDATA[Description Here 4]]></COPY>
+		<LINK>gallery/front_slideshow/image_4.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_4.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 4">
+		<TITLE>Title 5</TITLE>
+		<COPY><![CDATA[Description Here 5]]></COPY>
+		<LINK>gallery/front_slideshow/image_5.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_5.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 4">
+		<TITLE>Title 6</TITLE>
+		<COPY><![CDATA[Description Here 6]]></COPY>
+		<LINK>gallery/front_slideshow/image_6.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_6.jpg</THUMBS>
+	</NODE>
+	
+	<NODE id="Gallery 5">
+		<TITLE>Title 1</TITLE>
+		<COPY><![CDATA[Description Here 1]]></COPY>
+		<LINK>gallery/front_slideshow/image_1.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_1.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 5">
+		<TITLE>Title 2</TITLE>
+		<COPY><![CDATA[Description Here 2]]></COPY>
+		<LINK>gallery/front_slideshow/image_2.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_2.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 5">
+		<TITLE>Title 3</TITLE>
+		<COPY><![CDATA[Description Here 3]]></COPY>
+		<LINK>gallery/front_slideshow/image_3.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_3.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 5">
+		<TITLE>Title 4</TITLE>
+		<COPY><![CDATA[Description Here 4]]></COPY>
+		<LINK>gallery/front_slideshow/image_4.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_4.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 5">
+		<TITLE>Title 5</TITLE>
+		<COPY><![CDATA[Description Here 5]]></COPY>
+		<LINK>gallery/front_slideshow/image_5.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_5.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 5">
+		<TITLE>Title 6</TITLE>
+		<COPY><![CDATA[Description Here 6]]></COPY>
+		<LINK>gallery/front_slideshow/image_6.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_6.jpg</THUMBS>
+	</NODE>
+
+	<NODE id="Gallery 6">
+		<TITLE>Title 1</TITLE>
+		<COPY><![CDATA[Description Here 1]]></COPY>
+		<LINK>gallery/front_slideshow/image_1.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_1.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 6">
+		<TITLE>Title 2</TITLE>
+		<COPY><![CDATA[Description Here 2]]></COPY>
+		<LINK>gallery/front_slideshow/image_2.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_2.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 6">
+		<TITLE>Title 3</TITLE>
+		<COPY><![CDATA[Description Here 3]]></COPY>
+		<LINK>gallery/front_slideshow/image_3.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_3.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 6">
+		<TITLE>Title 4</TITLE>
+		<COPY><![CDATA[Description Here 4]]></COPY>
+		<LINK>gallery/front_slideshow/image_4.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_4.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 6">
+		<TITLE>Title 5</TITLE>
+		<COPY><![CDATA[Description Here 5]]></COPY>
+		<LINK>gallery/front_slideshow/image_5.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_5.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 6">
+		<TITLE>Title 6</TITLE>
+		<COPY><![CDATA[Description Here 6]]></COPY>
+		<LINK>gallery/front_slideshow/image_6.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_6.jpg</THUMBS>
+	</NODE>
+
+	<NODE id="Gallery 7">
+		<TITLE>Title 1</TITLE>
+		<COPY><![CDATA[Description Here 1]]></COPY>
+		<LINK>gallery/front_slideshow/image_1.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_1.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 7">
+		<TITLE>Title 2</TITLE>
+		<COPY><![CDATA[Description Here 2]]></COPY>
+		<LINK>gallery/front_slideshow/image_2.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_2.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 7">
+		<TITLE>Title 3</TITLE>
+		<COPY><![CDATA[Description Here 3]]></COPY>
+		<LINK>gallery/front_slideshow/image_3.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_3.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 7">
+		<TITLE>Title 4</TITLE>
+		<COPY><![CDATA[Description Here 4]]></COPY>
+		<LINK>gallery/front_slideshow/image_4.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_4.jpg</THUMBS>
+	</NODE>
+	<NODE id="Gallery 7">
+		<TITLE>Title 5</TITLE>
+		<COPY><![CDATA[Description Here 5]]></COPY>
+		<LINK>gallery/front_slideshow/image_5.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_5.jpg</THUMBS>
+	</NODE>
+	
+	<NODE id="Dec 09' Baptisms">
+		<TITLE>Title 1</TITLE>
+		<COPY><![CDATA[Sunday Baptism 1]]></COPY>
+		<LINK>gallery/front_slideshow/image_7.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_7.jpg</THUMBS>
+	</NODE>
+	
+	<NODE id="Dec 09' Baptisms">
+		<TITLE>Title 2</TITLE>
+		<COPY><![CDATA[Recap of the baptisms]]></COPY>
+		<LINK>gallery/front_slideshow/image_7.jpg</LINK>
+		<THUMBS>gallery/front_slideshow/thumb_7.jpg</THUMBS>
+	</NODE>
+	
+</NODETOP>
